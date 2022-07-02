@@ -47,10 +47,10 @@ a:hover {
     padding-left: 6vw;
     padding-right: 50vw;
     text-align: left;
-    opacity: 0%;
+    opacity: 100%;
 }
 .dos:hover {
-    opacity: 0%;
+    opacity: 100%;
 }
 .tres {
     padding-right: 3.75vw;
