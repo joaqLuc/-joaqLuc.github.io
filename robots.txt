@@ -1,0 +1,4 @@
+Sitemap: https://github.com/joaqLuc/joaqLuc.github.io/blob/main/sitemap.xml
+
+User-agent: *
+Disallow:
